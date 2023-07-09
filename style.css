@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-container{
+    display: flex;
+    background-color: gray;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+.menus{
+list-style:none ;
+display: flex;
+gap: 15px;
+font-size: 17px;
+font-style: italic;
+}
+.banner-container{
+    height: 100vh;
+    background-image: url('./asset/image/background.jpg'),linear-gradient();
+    background-position: ;
+    background-blend-mode: ;
+    background-repeat: ;
+    background-size: ;
+
+}
